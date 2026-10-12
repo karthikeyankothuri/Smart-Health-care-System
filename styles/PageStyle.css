@@ -1,0 +1,53 @@
+.page-container{
+    min-height:100vh;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+
+    background-image:
+    linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+    url("https://images.unsplash.com/photo-1579684385127-1ef15d508118");
+
+    background-size:cover;
+    background-position:center;
+}
+
+.page-card{
+    margin-top:80px;
+    background:white;
+    padding:40px;
+    border-radius:12px;
+    width:400px;
+
+    box-shadow:0px 10px 30px rgba(0,0,0,0.35);
+}
+
+.page-card h2{
+    text-align:center;
+    margin-bottom:20px;
+    color:#1e6be3;
+}
+
+.page-card input,
+.page-card textarea,
+.page-card select{
+    width:100%;
+    padding:10px;
+    margin:10px 0;
+    border:1px solid #ccc;
+    border-radius:6px;
+}
+
+.page-card button{
+    width:100%;
+    padding:12px;
+    background:#1e6be3;
+    color:white;
+    border:none;
+    border-radius:6px;
+    cursor:pointer;
+}
+
+.page-card button:hover{
+    background:#0d4ecb;
+}

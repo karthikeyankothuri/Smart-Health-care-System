@@ -1,0 +1,93 @@
+
+
+.appointment-container{
+
+min-height:100vh;
+display:flex;
+flex-direction:column;
+align-items:center;
+
+
+background-image:
+linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)),
+url("https://images.unsplash.com/photo-1581594693702-fbdc51b2763b");
+
+background-size:cover;
+background-position:center;
+background-repeat:no-repeat;
+
+}
+
+
+.form-card{
+
+margin-top:80px;
+background:white;
+
+padding:40px;
+width:420px;
+
+border-radius:12px;
+
+box-shadow:0px 10px 30px rgba(0,0,0,0.35);
+
+}
+
+
+
+.form-card h2{
+
+text-align:center;
+margin-bottom:20px;
+color:#1e6be3;
+
+}
+
+
+.form-card input,
+.form-card textarea{
+
+width:100%;
+padding:12px;
+margin:10px 0;
+
+border:1px solid #ccc;
+border-radius:6px;
+
+font-size:14px;
+
+}
+
+
+.form-card textarea{
+
+height:80px;
+
+}
+
+
+.form-card button{
+
+width:100%;
+padding:12px;
+
+margin-top:10px;
+
+background:#1e6be3;
+color:white;
+
+border:none;
+border-radius:6px;
+
+font-size:16px;
+cursor:pointer;
+
+transition:0.3s;
+
+}
+
+.form-card button:hover{
+
+background:#0d4ecb;
+
+}
