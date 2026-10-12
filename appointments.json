@@ -1,0 +1,44 @@
+[
+    {
+        "name": "karthikeyan",
+        "age": "18",
+        "phone": "9512795184",
+        "doctor": "Dr. Priya",
+        "slot": "12:00 PM"
+    },
+    {
+        "name": "karthikeyan",
+        "age": "18",
+        "phone": "9512795184",
+        "doctor": "Dr. John",
+        "slot": "9:00 AM"
+    },
+    {
+        "name": "karthikeyan",
+        "age": "18",
+        "phone": "9512795184",
+        "doctor": "Dr. Smith",
+        "slot": "10:00 AM"
+    },
+    {
+        "name": "nikesh",
+        "age": "18",
+        "phone": "9346522227",
+        "doctor": "Dr. John",
+        "slot": "1:00 PM"
+    },
+    {
+        "name": "karthikeyan",
+        "age": "18",
+        "phone": "9512795184",
+        "doctor": "Dr. Meena",
+        "slot": "10:30 AM"
+    },
+    {
+        "name": "karthikeyan",
+        "age": "18",
+        "phone": "9512795184",
+        "doctor": "Dr. Kumar",
+        "slot": "11:00 AM"
+    }
+]
